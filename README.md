@@ -3,6 +3,13 @@
 >    本课程是软件工程专业学生移动智能设备方向的方向课，内容包括百度地图、OkHttp、Glide、Gson、极光推送和环信即时通讯等框架的介绍。课堂PPT配合部分实验手册帮助学生掌握所学框架的原理和使用，最大程度提高学生的学习质量。
 &nbsp;
 
+
+
+## 课程资料
+
+- 教学大纲 [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />查看](/materials/outline.doc)
+&nbsp;
+
 ## 课程大纲
 
 
