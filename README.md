@@ -7,7 +7,7 @@
 
 ## 课程资料
 
-- 教学大纲 [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />查看](/materials/outline.doc)
+- 教学大纲 [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />查看](/materials/outline.pdf)
 &nbsp;
 
 ## 课程大纲
