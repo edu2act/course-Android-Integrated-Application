@@ -15,6 +15,12 @@
 
 | 章节 | 简介 | 资料 |
 |-----|-----|-----|
+|01-Image   |-Android中简单的图片使用<br/>-Android中的绘图<br/>-Android中的图形特效|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch01-Image/01-Img.pdf)|
+|02-Animation|-Android中的动画简介<br/>-帧动画<br/>-补间动画<br/>-属性动画|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch01-OkHttp/01-OkHttp.pptx)|
+|01-OkHttp  |-OkHttp请求的处理流程<br/>-核心API<br/>-get、post请求<br/>-文件上传、下载|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch01-OkHttp/01-OkHttp.pptx)|
+|01-OkHttp  |-OkHttp请求的处理流程<br/>-核心API<br/>-get、post请求<br/>-文件上传、下载|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch01-OkHttp/01-OkHttp.pptx)|
+|01-OkHttp  |-OkHttp请求的处理流程<br/>-核心API<br/>-get、post请求<br/>-文件上传、下载|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch01-OkHttp/01-OkHttp.pptx)|
+|01-OkHttp  |-OkHttp请求的处理流程<br/>-核心API<br/>-get、post请求<br/>-文件上传、下载|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch01-OkHttp/01-OkHttp.pptx)|
 |01-OkHttp  |-OkHttp请求的处理流程<br/>-核心API<br/>-get、post请求<br/>-文件上传、下载|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch01-OkHttp/01-OkHttp.pptx)|
 |02-Glide   |-Glide的基本用法<br/>-Glide v4的Generated API特性|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch02-Glide/02-Glide.pptx)|
 |03-Gson    |-Gson对基本数据类型的序列化和反序列化<br/>-对单个对象的序列化和反序列化<br/>-对嵌套对象的序列化和反序列化|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch03-Gson/03-Gson.pptx)|
