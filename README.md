@@ -17,7 +17,7 @@
 |-----|-----|-----|
 |01-Image   |-Android中简单的图片使用<br/>-Android中的绘图<br/>-Android中的图形特效|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch01-Image/01-Image.pdf)|
 |02-Animation|-Android中的动画简介<br/>-帧动画<br/>-补间动画<br/>-属性动画|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch02-Animation/02-Animation.pdf)|
-|03-Muti-Media|-音频处理<br/>-视频处理<br/>-摄像头应用|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch03-Muti-Media/03-Muti-Media.pdf)|
+|03-Muti-Media|-音频处理<br/>-视频处理<br/>-摄像头应用|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch03-Multi-Media/03-Muti-Media.pdf)|
 |04-SmartRefreshLayout|-ViewHolder的作用<br/>-SmartRefreshLayout简介<br/>-基本用法|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch04-SmartRefreshLayout/04-SmartRefreshLayout.pdf)|
 |05-EventBus|-EventBus简介<br/>-EventBus配置<br/>-EventBus基本用法|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch05-EventBus/05-EventBus.pdf)|
 |06-Glide   |-Glide的基本用法<br/>-Glide v4的Generated API特性|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch06-Glide/06-Glide.pdf)|
