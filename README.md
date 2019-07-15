@@ -27,5 +27,5 @@
 |09-BaiduMap|-基础地图|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch09-BaiduMap/09.2-基础地图.pdf)|
 |09-BaiduMap|-地图覆盖物|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch09-BaiduMap/09.3-地图覆盖物.pdf)|
 |09-BaiduMap|-地图定位|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch09-BaiduMap/09.4-定位.pdf)|
-|10-JPush   |-极光推送概述<br>-极光推送SDK运行流程<br>-实现自定义消息接受者Receiver |[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch10-JPush/10-JPush.pdf)|
+|10-JPush   |-极光推送概述<br>-极光推送SDK运行流程<br>-实现自定义消息接受者Receiver |[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch10-Jpush/10-Jpush.pdf)|
 |11-ModuleLibrary |-创建Module Library<br>-导入Module Library |[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/ch11-ModuleLibrary/11-ModuleLibrary.pdf)|
